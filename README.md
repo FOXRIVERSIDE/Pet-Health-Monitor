@@ -65,12 +65,26 @@ To start monitoring your pet, you need to establish a connection with the compat
 
 - Navigate to the home screen by tapping on the "next" icon in the app's bottom navigation bar.
  <p align="center">
-<img src="Sample_Image/Onboard1.jpg" alt="Image 1" width="200"/> <img src="Sample_Image/Onboard2.jpg" alt="Image 2" width="200"/> <img src="Sample_Image/Onboard3.jpg" alt="Image 3" width="200"/>
+<img src="Sample_Image/Onboard1.jpg" alt="Image 1" width="200"/> <img src="Sample_Image/Onboard3.jpg" alt="Image 2" width="200"/> <img src="Sample_Image/Onboard2.jpg" alt="Image 3" width="200"/>
  </p>
-- Tap the "Sign up" button to create new account and then log in .
+- Tap the "Sign up" button to create new account.
+ <p align="center">
+<img src="Sample_Image/HomePage.jpg" alt="Image 1" width="200"/> 
+ </p>
+- fill the detail about your pet.
+ <p align="center">
+<img src="Sample_Image/SignUpPage.jpg" alt="Image 1" width="200"/> 
+ </p>
+- Log in your Account.
+ <p align="center">
+<img src="Sample_Image/LogIn.jpg" alt="Image 1" width="200"/> 
+ </p>
 
 - Tap "Option one" to use Real-time Monitor and the tap the device you want to connect.
-
+ <p align="center">
+<img src="Sample_Image/OptionPage.jpg" alt="Image 1" width="200"/> 
+ </p>
+ 
 - Once "Connected" show up , you can tap it again to use view Real-Time Data.
 
 ### Real-Time Data Visualization
@@ -78,20 +92,12 @@ To start monitoring your pet, you need to establish a connection with the compat
 **Pet Vet** allows you to visualize your pet's acceleration and breathing data in real-time. Here's how to do it:
 
 - when connected to the board you can view acceleration and breathing graph.
-- Tap the tab at the top, you can switch between acceleration and breathing graph. 
+- Tap the tab at the top, you can switch between acceleration and breathing graph
 - Current motion state and breathing rate is displayed on acceleration and breathing graph respectively.
+   <p align="center">
+<img src="Sample_Image/RealAccel.jpg" alt="Image 1" width="200"/> <img src="Sample_Image/RealBreathing.jpg" alt="Image 1" width="200"/> 
+ </p>
 
-### Predicting Motion
-
-The app can predict your pet's current motion, including activities like moving, standing, sitting, or lying down. Here's how to use this feature:
-
-- Navigate to the "Motion" tab.
-
-- Tap the "Predict" button.
-
-- Observe the real-time motion predictions generated based on accelerometer data.
-
-- These predictions can help you understand what your pet is currently doing.
 
 ### Viewing History Records
 
@@ -100,9 +106,13 @@ The app can predict your pet's current motion, including activities like moving,
 - Go to the "Option two" tab in the app.
 
 - Select the date or time range you want to review by using the date picker.
-
-
+ <p align="center">
+<img src="Sample_Image/HistoryList.jpg" alt="Image 1" width="200"/> 
+ </p>
 - This history can assist you in tracking your pet's well-being over time.
+  <p align="center">
+<img src="Sample_Image/HA.jpg" alt="Image 1" width="200"/> <img src="Sample_Image/HO.jpg" alt="Image 1" width="200"/> 
+ </p>
 
 Now that you know how to connect, visualize data, predict motion, and review historical records, you can effectively use **Pet Vet** to care for your furry friend.
 
