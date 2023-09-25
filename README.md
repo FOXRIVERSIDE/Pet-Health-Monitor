@@ -1,7 +1,7 @@
 
 # Pet Vet
 
-![App Logo/Icon](link_to_your_app_logo.png)
+![App Logo/Icon](icon.jpg)
 
 ## Description
 
