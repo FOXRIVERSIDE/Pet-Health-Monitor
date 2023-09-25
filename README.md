@@ -2,6 +2,7 @@
 # Pet Vet
 
 ![App Icon](Sample_Image/icon.jpg)
+<img src="image.jpg" alt="Description" width="300" height="200">
 
 ## Description
 
