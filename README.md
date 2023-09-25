@@ -64,9 +64,9 @@ To start monitoring your pet, you need to establish a connection with the compat
 - Launch **Pet Vet** on your iOS device.
 
 - Navigate to the home screen by tapping on the "next" icon in the app's bottom navigation bar.
- 
-<img src="Sample_Image/Onboard1.jpg" alt="Image 1" width="200"/> <img src="Onboard2.jpg" alt="Image 2" width="200"/> <img src="Onboard3.jpg" alt="Image 3" width="200"/>
-
+ <p align="center">
+<img src="Sample_Image/Onboard1.jpg" alt="Image 1" width="200"/> <img src="Sample_Image/Onboard2.jpg" alt="Image 2" width="200"/> <img src="Sample_Image/Onboard3.jpg" alt="Image 3" width="200"/>
+ </p>
 - Tap the "Sign up" button to create new account and then log in .
 
 - Tap "Option one" to use Real-time Monitor and the tap the device you want to connect.
