@@ -1,7 +1,7 @@
 
 # Pet Vet
 
-![Pet-Health-Monitor/Sample Image](icon.jpg)
+![Pet-Health-Monitor/Sample_Image](icon.jpg)
 
 ## Description
 
