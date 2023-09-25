@@ -1,7 +1,7 @@
 
 # Pet Vet
 <p align="center">
-  <img src="Sample_Image/icon.jpg" alt="App Icon" width="400" height="400">
+  <img src="Sample_Image/icon.jpg" alt="App Icon" width="150" height="150">
 </p>
 
 ## Description
