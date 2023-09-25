@@ -1,7 +1,7 @@
 
 # Pet Vet
 
-![App Logo/Icon](icon.jpg)
+![App Pet-Health-Monitor/Sample Image](icon.jpg)
 
 ## Description
 
