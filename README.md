@@ -94,7 +94,7 @@ To start monitoring your pet, you need to establish a connection with the compat
 - when connected to the board you can view acceleration and breathing graph.
 - Tap the tab at the top, you can switch between acceleration and breathing graph
 - Current motion state and breathing rate is displayed on acceleration and breathing graph respectively.
-   <p align="center">
+<p align="center">
 <img src="Sample_Image/RealAccel.jpg" alt="Image 1" width="300"/> <img src="Sample_Image/Realbreathing.jpg" alt="Image 1" width="300"/> 
  </p>
 
