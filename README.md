@@ -149,3 +149,9 @@ In the "License" section, you specify the license under which your project is av
 You are free to use, modify, and distribute this software under the terms of the MIT License. See the [LICENSE](LICENSE) file for the full text of the license.
 
 Please note that while **Pet Vet** is open-source and free to use, it may contain third-party libraries or dependencies with their own licenses. Make sure to review and comply with the licenses of those components before using them in other projects.
+```
+### Acknowledgements
+
+- This project is supervised by [Dr.Yasin Cotur](https://github.com/ysnctr).
+- Many thanks for Yuchen Ma for UI design.
+Your contributions have been instrumental in making this project a success.
