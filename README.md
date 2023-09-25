@@ -65,24 +65,24 @@ To start monitoring your pet, you need to establish a connection with the compat
 
 - Navigate to the home screen by tapping on the "next" icon in the app's bottom navigation bar.
  <p align="center">
-<img src="Sample_Image/Onboard1.jpg" alt="Image 1" width="200"/> <img src="Sample_Image/Onboard3.jpg" alt="Image 2" width="200"/> <img src="Sample_Image/Onboard2.jpg" alt="Image 3" width="200"/>
+<img src="Sample_Image/Onboard1.jpg" alt="Image 1" width="300"/> <img src="Sample_Image/Onboard3.jpg" alt="Image 2" width="300"/> <img src="Sample_Image/Onboard2.jpg" alt="Image 3" width="300"/>
  </p>
 - Tap the "Sign up" button to create new account.
  <p align="center">
-<img src="Sample_Image/HomePage.jpg" alt="Image 1" width="200"/> 
+<img src="Sample_Image/HomePage.jpg" alt="Image 1" width="300"/> 
  </p>
 - fill the detail about your pet.
  <p align="center">
-<img src="Sample_Image/SignUpPage.jpg" alt="Image 1" width="200"/> 
+<img src="Sample_Image/SignUpPage.jpg" alt="Image 1" width="300"/> 
  </p>
 - Log in your Account.
  <p align="center">
-<img src="Sample_Image/LogIn.jpg" alt="Image 1" width="200"/> 
+<img src="Sample_Image/LogIn.jpg" alt="Image 1" width="300"/> 
  </p>
 
 - Tap "Option one" to use Real-time Monitor and the tap the device you want to connect.
  <p align="center">
-<img src="Sample_Image/OptionPage.jpg" alt="Image 1" width="200"/> 
+<img src="Sample_Image/OptionPage.jpg" alt="Image 1" width="300"/> 
  </p>
  
 - Once "Connected" show up , you can tap it again to use view Real-Time Data.
@@ -95,7 +95,7 @@ To start monitoring your pet, you need to establish a connection with the compat
 - Tap the tab at the top, you can switch between acceleration and breathing graph
 - Current motion state and breathing rate is displayed on acceleration and breathing graph respectively.
    <p align="center">
-<img src="Sample_Image/RealAccel.jpg" alt="Image 1" width="200"/> <img src="Sample_Image/RealBreathing.jpg" alt="Image 1" width="200"/> 
+<img src="Sample_Image/RealAccel.jpg" alt="Image 1" width="300"/> <img src="Sample_Image/Realbreathing.jpg" alt="Image 1" width="300"/> 
  </p>
 
 
@@ -107,11 +107,11 @@ To start monitoring your pet, you need to establish a connection with the compat
 
 - Select the date or time range you want to review by using the date picker.
  <p align="center">
-<img src="Sample_Image/HistoryList.jpg" alt="Image 1" width="200"/> 
+<img src="Sample_Image/HistoryList.jpg" alt="Image 1" width="300"/> 
  </p>
 - This history can assist you in tracking your pet's well-being over time.
   <p align="center">
-<img src="Sample_Image/HA.jpg" alt="Image 1" width="200"/> <img src="Sample_Image/HO.jpg" alt="Image 1" width="200"/> 
+<img src="Sample_Image/HA.jpg" alt="Image 1" width="300"/> <img src="Sample_Image/HO.jpg" alt="Image 1" width="300"/> 
  </p>
 
 Now that you know how to connect, visualize data, predict motion, and review historical records, you can effectively use **Pet Vet** to care for your furry friend.
