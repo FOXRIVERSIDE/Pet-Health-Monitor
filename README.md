@@ -153,5 +153,5 @@ Please note that while **Pet Vet** is open-source and free to use, it may contai
 ### Acknowledgements
 
 - This project is supervised by [Dr.Yasin Cotur](https://github.com/ysnctr).
-- Many thanks for Yuchen Ma for UI design.
+- Many thanks for [Yuchen Ma](https://github.com/Millie986) for UI design.
 Your contributions have been instrumental in making this project a success.
